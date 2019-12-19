@@ -1,0 +1,28 @@
+.first{
+  background-color: #9aceff;
+  width: 200px;
+  height:200px;
+  border: solid 20px;
+  margin: 0px;
+  padding:50px
+
+}
+
+h1
+{
+  margin-top: 0;
+}
+.second
+{
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+
+}
+.third
+{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+
+}
